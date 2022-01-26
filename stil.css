@@ -1,0 +1,164 @@
+body{
+    background: url('images1/pexels-henry-&-co-2341290.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+  }
+  .evidentiatbottom:hover{
+    color:#E0E0E0;
+  }
+  
+  .text-indent{
+    text-indent:20px;
+  }
+  .margin5px{
+    margin:5px;
+  }
+  .marginright5px{
+    margin-right:5px;
+  }
+  .marginright8px{
+    margin-right:8px;
+  }
+  .marginright20px{
+    margin-right:20px;
+  }
+  .marginleft20px{
+    margin-left: 20px;
+  }
+  
+  .margintb{
+    margin-top:5%;
+    margin-bottom:8%;
+  }
+  .margintbg
+  {
+    margin-top:3%;
+  }
+  .opacity{
+    opacity: 0.8;
+  }
+  .imgnavbar{
+    max-width:40px;
+    height:auto;
+    border-radius:50%;
+  }
+  .imgbody{
+     max-width:80%;
+     height:auto;
+     max-height:650px;
+  }
+  .subtitlu{
+    font-size:20px;
+  }
+  .titlu{
+    font-size:40px;
+  }
+  
+  .paddingb {
+    padding-bottom:150px;
+  }
+  .paddingbg{
+    padding-bottom:20px;
+    padding-top:20px;
+  }
+  
+  .iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* galerie */
+  .overflow{
+    overflow:hidden;
+  }
+  img.hoverzi{
+      -webkit-transform: scale(1);
+      transform: scale(1);
+      -webkit-transition: .3s ease-in-out;
+      transition: .3s ease-in-out;
+  }
+  img.hoverzi:hover{
+      -webkit-transform: scale(1.1);
+      transform: scale(1.1);
+  }
+  .button {
+    background-color: #17a2b8;
+    border: none;
+    color: #E0E0E0;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  .button:hover{
+    color:white;
+  }
+  .button1 {
+    background-color: #17a2b8;
+    border: none;
+    color: #E0E0E0;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 0px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+  .button1:hover{
+    color:white;
+  }
+.culoare_a
+{
+    color: white;
+}
+  
+  /* sf galerie */
+  
+  .fb-comments, .fb-comments iframe[style] {
+    width: 100% !important;
+    height: 500px !important;
+  }
+  .scris2
+  {
+    font-size: 22px;
+  }
+  @media only screen and (max-width: 600px) {
+  .scris
+  {
+    font-size: 25px;
+  }
+  .scris2
+  {
+    font-size: 18px;
+  }
+  .center {
+    width: 100%;
+  }
+  }
+  
+  .center {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+  }
+  
+
+  
+  /* galerie */
+  
